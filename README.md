@@ -53,6 +53,8 @@
       <p>
       <p>O pipeline de ETL agora processa e transforma dados de vendas automaticamente, organizando-os em um formato .CSV pronto para análise no Amazon S3.</p>
       <strong><a href=""_blank">Clique aqui para assistir o vídeo do passo a passo que postei no LinkedIn</a></strong>
+      <p>
+      </p>
       <p>Espero que curtam 😊</p>
     </footer>
   </div>
