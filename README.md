@@ -55,6 +55,10 @@
     </section>
     <footer>
       <h2>🚀 Resultado</h2>
+      <img src="Glue-S3.gif" alt="Fluxo de análise Glue"
+      <p>
+      </p>
+      <p>
       <p>O pipeline de ETL agora processa e transforma dados de vendas automaticamente, organizando-os em um formato pronto para análise no Amazon S3. Os dados estão agora acessíveis para consultas rápidas e podem ser visualizados em dashboards para insights sobre vendas.</p>
       <strong><a href=""_blank">Clique aqui para assistir o vídeo do passo a passo que postei no LinkedIn</a></strong>
       <p>Espero que curtam 😊</p>
