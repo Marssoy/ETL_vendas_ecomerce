@@ -7,7 +7,7 @@
 <body>
   <div class="container">
     <header>
-      <h1>Projeto de Análise de Vendas de E-commerce 📊</h1>
+      <h1>Processamento e Transformação de Dados de Vendas Utilizando AWS Glue 📊</h1>
       <p class="subtitle">Este projeto demonstra como criar um pipeline de ETL utilizando AWS para transformar dados de vendas de e-commerce e carregá-los em um repositório central para análise.</p>
     </header>
     <section>
