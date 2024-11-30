@@ -21,10 +21,6 @@
           <li><strong>AWS Glue ETL Job:</strong> Criação de um job de ETL para transformar os dados, incluindo:
             <ul>
               <li>Aplicação de 20% de desconto nos produtos baixados no arquivo CSV.</li>
-              <li>Conversão de tipos de dados, como de string para inteiro e data em formato inválido para um formato correto.</li>
-              <li>Remoção de registros inválidos ou duplicados.</li>
-              <li>Cálculos de agregação (total de vendas por mês, produto e região).</li>
-              <li>Agrupamento e organização dos dados.</li>
           </ul>
         </ul>
       </ul>
@@ -42,7 +38,6 @@
         <ul>
           <li>Verificação do número de registros.</li>
           <li>Garantia de que os cálculos e transformações estavam corretos.</li>
-          <li>Geração de um relatório simples para monitoramento.</li>
         </ul>
     </section>
     <footer>
