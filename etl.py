@@ -11,8 +11,8 @@ spark = glueContext.spark_session
 
 # 1. Carregar os dados brutos do Glue Catalog
 datasource = glueContext.create_dynamic_frame.from_catalog(
-    database="meu_catalogo",   # Substitua pelo nome do banco de dados no Glue Catalog
-    table_name="vendas_csv"    # Substitua pelo nome da tabela no Glue Catalog
+    database="seu_database",   # Substitua pelo nome do banco de dados no Glue Catalog
+    table_name="sua_table"    # Substitua pelo nome da tabela no Glue Catalog
 )
 
 # 2. Converter o DynamicFrame para DataFrame para realizar transformações
@@ -37,7 +37,7 @@ df = df.withColumn("PrecoComDesconto", col("Preco") * 0.8)
 transformed_dynamic_frame = DynamicFrame.fromDF(df, glueContext, "transformed_data")
 
 # 6. Definir o diretório de saída no S3
-output_dir = "s3://marssoycloud.com.br/"  # Substitua pelo caminho do seu bucket no S3
+output_dir = "s3://seu_bucket/"  # Substitua pelo caminho do seu bucket no S3
 
 # 7. Escrever os dados transformados no S3
 glueContext.write_dynamic_frame.from_options(
