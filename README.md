@@ -47,7 +47,7 @@
       </p>
       <p>
       <p>O pipeline de ETL agora processa e transforma dados de vendas automaticamente, organizando-os em um formato .CSV pronto para análise no Amazon S3.</p>
-      <strong><a href=""_blank">Clique aqui para assistir o vídeo do passo a passo que postei no LinkedIn</a></strong>
+      <strong><a href="https://www.linkedin.com/posts/vinicius-marssoy_aws-cloudcomputing-etl-activity-7268683983729643520-Oi8Q?utm_source=share&utm_medium=member_desktop"_blank">Clique aqui para assistir o vídeo do passo a passo que postei no LinkedIn</a></strong>
       <p>
       </p>
       <p>Espero que curtam 😊</p>
